@@ -1,0 +1,6 @@
+crewai
+streamlit
+python-dotenv
+google-api-python-client
+pydantic
+typing-extensions
